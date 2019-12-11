@@ -112,7 +112,6 @@ function getMousePosition(e) {
 
 function resetBall() {
     ballSpeedX *= -1;
-    ballSpeedY 
     ballX = canvas.width/2 - BALL_SIZE/2;
     ballY = canvas.height/2 - BALL_SIZE/2;
 }
