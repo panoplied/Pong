@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('./PressStart2P-Regular.ttf') format('truetype');
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#pong {
+    font-family: 'Press Start 2P';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #080808;
+}
